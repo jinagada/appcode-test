@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5D2DC5A2D3AA5AEBDDE35CBD /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 5D2DC6D6052B3E4E44587B17 /* README.md */; };
 		62E98863807347717E5A8212 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 62E98C585D6CCB5CE05D70F8 /* .gitignore */; };
 		C1C4F13007141EC29CE85C97 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1C4F50A7CB67F5CDD19348A /* AppDelegate.swift */; };
 		C1C4F46B5FB70FFCD2CBD48C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C1C4F993925F22EBA137E751 /* Preview Assets.xcassets */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5D2DC6D6052B3E4E44587B17 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = file.mc; path = README.md; sourceTree = "<group>"; };
 		62E98C585D6CCB5CE05D70F8 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = file.gitignore; path = .gitignore; sourceTree = "<group>"; };
 		C1C4F1BE5AB36A49619DA92B /* ConferenceDetails.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConferenceDetails.swift; sourceTree = "<group>"; };
 		C1C4F50A7CB67F5CDD19348A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -69,6 +71,7 @@
 				C1C4F4791E2BB959285B47BA /* Products */,
 				C1C4FCF74412702643E83944 /* iOSConferences */,
 				62E98C585D6CCB5CE05D70F8 /* .gitignore */,
+				5D2DC6D6052B3E4E44587B17 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -163,6 +166,7 @@
 				C1C4F46B5FB70FFCD2CBD48C /* Preview Assets.xcassets in Resources */,
 				C1C4F99AC81544BFE4999B4D /* conferencesData.json in Resources */,
 				62E98863807347717E5A8212 /* .gitignore in Resources */,
+				5D2DC5A2D3AA5AEBDDE35CBD /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
